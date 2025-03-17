@@ -1,1 +1,1 @@
-# tweet-generator
+# An AI enabled personal tweet-generator
